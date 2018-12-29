@@ -85,3 +85,10 @@ a. Schematic
 b. Layout
 
 <img src="Images/sram_bank_layout.JPG" width="500">
+
+----
+
+## Files
+
+The files attached here contain a vector file with HSPICE code to simulate the design. Individual schematics of each cell and unit have 
+also been attached. They can be found in the "Images" folder.
