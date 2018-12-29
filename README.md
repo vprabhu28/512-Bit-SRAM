@@ -80,7 +80,7 @@ b. Unit
 
 a. Schematic
 
-<img src="Images/sram_512kb_schem_with components" width="500">
+<img src="Images/sram_512kb_schem_with components.jpg" width="500">
 
 b. Layout
 
